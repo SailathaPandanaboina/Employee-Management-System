@@ -26,7 +26,6 @@ which type of java Concepts Used in this project:
   * Static Variable:
        -- Used to track total number of employees(count)
   * Methods:
-    -------
     calculateBonus() → calculates bonus
     display()→ prints employee details
 
