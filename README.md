@@ -1,6 +1,5 @@
-# Employee-Management-System
+# Employee-Management-System(Java mini project using variables and methods)
 ============================
-Java mini project using variables and methods
 
 Project Description
 --------------------
